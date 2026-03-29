@@ -1,37 +1,30 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Long Swim To Freedom
 
+The official landing page for the **Long Swim To Freedom** documentary expedition. 
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+This project tackles two urgent and connected crises in rural KwaZulu-Natal, South Africa: the epidemic of child drownings and the devastating surge in rhino poaching. 
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Project Overview
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
+This website serves as the primary digital hub for the documentary and the broader conservation movement. Its main goals are to:
+* **Educate** the public on human-wildlife conflict and water safety in South Africa.
+* **Showcase** the stunning biodiversity of the iSimangaliso Wetland Park.
+* **Attract** global partners, NGOs, and corporate sponsors.
+* **Drive** crowdfunding and direct donations to frontline anti-poaching units and community swimming programs.
 
-(* = my other side project -- carrd.co)
-(** = not included)
+## Tech Stack
 
-AJ
-aj@lkn.io | @ajlkn
+This is a static website built for speed, accessibility, and easy hosting.
 
+* **HTML5 & CSS3**: Core structure and styling.
+* **JavaScript (jQuery)**: Used for smooth scrolling, scroll-fade animations, and responsive menu toggles.
+* **Formspree**: Handles the backend routing for the "Partner With Us" contact form without requiring a dedicated server.
+* **Base Template**: Adapted from the "Story" template by HTML5 UP.
 
-Credits:
+## How to Run Locally
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Because this is a static site, there is no complex build process or server required to view it locally.
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR-USERNAME/long-swim-to-freedom.git](https://github.com/YOUR-USERNAME/long-swim-to-freedom.git)
